@@ -1,2 +1,2 @@
 # ReplyJudge
-A funny Discord bot I made via discord.js
+ A funny Discord bot made via discord.js that judges whoever doesn't reply with their pings on.
